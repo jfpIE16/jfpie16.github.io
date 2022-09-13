@@ -1,6 +1,6 @@
 baseURL: https://jfpIE16.github.io/
 title: Jrp_ Blog
-paginate: 5
+paginate: 8
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -95,7 +95,7 @@ params:
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: dark
-    # disableThemeToggle: true
+    disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
